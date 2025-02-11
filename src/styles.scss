@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: 'Sixtyfour';
+    src: url('./assets/font/Sixtyfour/static/Sixtyfour-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
+.fontSixtyfour {
+    font-family: "Sixtyfour";
+}

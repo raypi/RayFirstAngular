@@ -7,6 +7,6 @@ import {CommonModule} from '@angular/common';
     standalone: true,
     imports: [CommonModule],
     template: '<h1>Hello World</h1>',
-    styles: ['h1 {color: green;}']
+    styleUrls: ['./landingPage.component.scss']
 })
 export class LandingPageComponent {}
